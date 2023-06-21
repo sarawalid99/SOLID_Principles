@@ -8,7 +8,7 @@
     - It accepts an Employee object as a dependency and uses its calculate_salary() method without being coupled to any specific subclass.
 - The calculate_total_salary() function, which performs the salary calculation, operates on a list of Employee objects.
     - It only requires the abstraction (Employee) and is not concerned with the specific subclasses.
-
--- In all three examples, the high-level modules (such as SalaryCalculator or the calculate_total_salary() function) depend on the abstraction 
+#
+- In all three examples, the high-level modules (such as SalaryCalculator or the calculate_total_salary() function) depend on the abstraction 
 (Employee interface or base class) and are decoupled from the specific implementations (Manager and Developer). 
--- This allows for flexibility, extensibility, and easier maintenance as the code can work with different employee types by simply implementing the abstraction
+- This allows for flexibility, extensibility, and easier maintenance as the code can work with different employee types by simply implementing the abstraction
