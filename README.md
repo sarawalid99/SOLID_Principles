@@ -2,8 +2,8 @@
 
 Table of contents: 
 ----------------------
-- [**Concept**](Concept)
-- [**SOLID Principles**]
+- [**Concept**](https://github.com/sarawalid99/SOLID_Principles#concept)
+- [**SOLID Principles**](https://github.com/sarawalid99/SOLID_Principles#solid-principles)
 
 # Concept: 
 SOLID is an acronym that represents a set of five principles of object-oriented design that aim to improve code quality, making it easier to maintain and extend. The five principles are Single Responsibility Principle, Open-Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, Dependency Inversion Principle. 
